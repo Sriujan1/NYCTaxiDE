@@ -1,0 +1,12 @@
+[
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "ds_directory_name" : "Calender",
+        "ds_file_name" : "calendar.csv"
+    },
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "ds_directory_name" : "Customers",
+        "ds_file_name" : "customers.csv"
+    }
+]
